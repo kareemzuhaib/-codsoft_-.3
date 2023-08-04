@@ -1,0 +1,56 @@
+body{
+    background-image: url('Math\ Backgrounds\ For\ Powerpoint\ Wide\ PowerPoint\ Math\ Backgrounds.jpg');
+}
+.heading{
+    margin-top: 80px;
+    text-align: center;
+    color:white;
+}
+.container{
+    margin-top: 100px;
+}
+.button{
+    text-align: center;
+    width: 50px;
+    padding: 20px;
+    margin: 2px 5px;
+    border-radius: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
+.row{
+    margin: 10px 0;
+    text-align: center;
+}
+.input{
+    text-align: end;
+    width: 240px;
+    font-size: 25px;
+    margin: 2px;
+    padding: 10px 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#delete{
+    background-color: red;
+}
+#equal{
+    width: 110px;
+    background-color: green;
+}
+#clear{
+    width: 110px;
+    background-color: red;
+}
+#operator{
+    background-color: black;
+    color: white;
+}
+#operator:hover{
+    background-color: white;
+    color: black;
+}
